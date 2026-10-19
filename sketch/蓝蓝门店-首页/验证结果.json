@@ -1,0 +1,41 @@
+{
+  "artboardSize": [
+    426,
+    924
+  ],
+  "previewSize": [
+    852,
+    1848
+  ],
+  "nativeLayerCounts": {
+    "page": 1,
+    "artboard": 1,
+    "group": 29,
+    "rectangle": 69,
+    "oval": 42,
+    "text": 60,
+    "shapePath": 37,
+    "bitmap": 20
+  },
+  "fileFormatSchema": "official @sketch-hq/sketch-file-format 6.5.0: PASSED",
+  "validatedSchemas": [
+    "document",
+    "meta",
+    "user",
+    "page"
+  ],
+  "archiveIntegrity": "PASSED",
+  "allLayersUnlocked": true,
+  "sharedTextStyleReferencesChecked": true,
+  "embeddedImages": 16,
+  "replaceablePhotoLayers": 20,
+  "maskLayers": 20,
+  "wholePageScreenshotLayers": 0,
+  "photoDecodingChecked": true,
+  "textWidthCheck": "60 text layers passed using Noto Sans CJK SC in Chromium",
+  "previewSource": "Read actual Sketch layers, reconstructed with Chromium at 2x. Not native Sketch export.",
+  "photoSource": "AI-generated replacement photography matching reference style; not exact original photos",
+  "macSketchOpenVerified": false,
+  "sha256": "d0f2c88c94446ed310ace6943d54f1e6219d4b0ca4e9c2a876b015ad7dbe999c",
+  "fileSizeBytes": 4272894
+}
