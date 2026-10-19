@@ -1,0 +1,38 @@
+{
+  "artboards": 10,
+  "artboardSize": [
+    390,
+    844
+  ],
+  "nativeLayerCounts": {
+    "artboard": 10,
+    "group": 673,
+    "rectangle": 455,
+    "text": 419,
+    "shapePath": 108,
+    "oval": 30,
+    "bitmap": 19
+  },
+  "sharedTextStyles": 67,
+  "sharedLayerStyles": 48,
+  "colorSwatches": 70,
+  "embeddedProductPhotos": 3,
+  "fileFormatSchema": "official @sketch-hq/sketch-file-format 6.5.0: PASSED",
+  "wholePageImages": 0,
+  "previewSource": "Read actual .sketch JSON layers and embedded product photos; reconstructed with Chromium @3x. Not Mac Sketch native export.",
+  "macSketchOpenVerified": false,
+  "notes": "Native clipping masks preserve scroll areas and rounded product photos; all text, buttons, cards and icons are native unlocked layers.",
+  "editableTextLayers": 419,
+  "maskLayers": 61,
+  "bitmapFramesChecked": true,
+  "sharedStyleReferencesChecked": true,
+  "artboardCountChecked": true,
+  "visualReview": [
+    "01 首页推荐记录",
+    "06 选择商品",
+    "08 删除确认"
+  ],
+  "archiveIntegrity": "PASSED",
+  "sha256": "bdd0a181734804bdd9bed5378f55932b09714f036a8fcbfecc1d9629f3177116",
+  "fileSizeBytes": 3068587
+}
