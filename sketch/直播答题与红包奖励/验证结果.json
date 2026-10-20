@@ -1,0 +1,71 @@
+{
+  "artboards": [
+    {
+      "name": "01 · 直播答题页",
+      "size": [
+        390,
+        756
+      ]
+    },
+    {
+      "name": "02 · 红包奖励弹窗",
+      "size": [
+        390,
+        756
+      ]
+    },
+    {
+      "name": "03 · 双手机展示排版",
+      "size": [
+        1239,
+        1152
+      ]
+    }
+  ],
+  "nativeLayerCounts": {
+    "page": 1,
+    "artboard": 3,
+    "group": 29,
+    "rectangle": 159,
+    "shapePath": 118,
+    "oval": 154,
+    "text": 142
+  },
+  "allLayersUnlocked": true,
+  "fileFormatSchema": "official @sketch-hq/sketch-file-format 6.5.0: PASSED",
+  "validatedSchemas": [
+    "document",
+    "meta",
+    "user",
+    "page"
+  ],
+  "archiveIntegrity": "PASSED",
+  "sharedTextStyles": 34,
+  "sharedStyleReferencesChecked": true,
+  "uniqueLayerIdsChecked": true,
+  "clippingMasksChecked": 4,
+  "bitmapLayers": 0,
+  "wholePageScreenshotLayers": 0,
+  "textWidthChecks": [
+    {
+      "name": "答题页",
+      "textLayersChecked": 28,
+      "textWidthOverflow": 0
+    },
+    {
+      "name": "奖励弹窗",
+      "textLayersChecked": 43,
+      "textWidthOverflow": 0
+    },
+    {
+      "name": "双手机展示",
+      "textLayersChecked": 71,
+      "textWidthOverflow": 0
+    }
+  ],
+  "previewSource": "Actual Sketch JSON layers reconstructed with Chromium; not a macOS Sketch native export.",
+  "reconstructionNotes": "Video cover, avatars, live background and reward artwork are editable vector reinterpretations of the reference.",
+  "macSketchOpenVerified": false,
+  "sha256": "e11c968144824772ed34a3682b70a461b717a6db41a9eba6ec0a5e0210b5f9a7",
+  "fileSizeBytes": 481895
+}
