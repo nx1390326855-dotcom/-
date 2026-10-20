@@ -319,4 +319,3 @@ with zipfile.ZipFile(output,'w',zipfile.ZIP_DEFLATED) as z:
         z.writestr(name,json.dumps(data,ensure_ascii=False,separators=(',',':')))
 print(output)
 print('Native layers:',{k:sum(n['_class']==k for n in walk(page)) for k in ['artboard','group','text','rectangle','oval','shapePath','bitmap']})
-
